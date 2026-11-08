@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Astropy** when working on a related task. 
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added seven module guides under `references/`: units, coordinates, cosmology, FITS, tables, time, and WCS/other modules.
